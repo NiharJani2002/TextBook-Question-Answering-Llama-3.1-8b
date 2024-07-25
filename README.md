@@ -3,7 +3,7 @@
 ## Who Is The Star of This Project ##
 The Star Boy Is Llama 3.1 8b.
 
-The Facebook Recently just like one or two days from todays time and I have used in this project 
+The Facebook Recently just like one or two or three days from todays date on which Repo was created (26 Th July 2024)
 
 # PDF Text Extraction and Querying with NLP
 
