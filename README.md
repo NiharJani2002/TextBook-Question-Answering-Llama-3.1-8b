@@ -5,6 +5,10 @@ The Star Boy Is Llama 3.1 8b.
 
 The Facebook Recently just like one or two or three days from todays date on which Repo was created (26 Th July 2024)
 
+## How To Run The Code ? ##
+Just Download the .ipynb mentioned in the repo and then run on kaggle or collab or collab pro or collab pro plus or any other powerfull gpu.
+It is not recommended to run code on local enviroment untill and unless you have powerfull gpu for training.
+
 # PDF Text Extraction and Querying with NLP
 
 This repository contains a script for extracting text from PDF documents, indexing it hierarchically, and performing information retrieval and generation using NLP techniques. The script leverages several libraries including Hugging Face's Transformers, SpaCy, and BM25 for text processing and query generation.
