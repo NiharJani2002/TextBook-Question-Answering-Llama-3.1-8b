@@ -9,6 +9,9 @@ The Facebook Recently just like one or two or three days from todays date on whi
 Just Download the .ipynb mentioned in the repo and then run on kaggle or collab or collab pro or collab pro plus or any other powerfull gpu.
 It is not recommended to run code on local enviroment untill and unless you have powerfull gpu for training.
 
+## Video Guidance On Running The Code:-) ##
+Video Link:-) https://drive.google.com/file/d/1mtp7KsLF514EHg04jtZ__P0COeZ7q1ZW/view?usp=share_link
+
 # PDF Text Extraction and Querying with NLP
 
 This repository contains a script for extracting text from PDF documents, indexing it hierarchically, and performing information retrieval and generation using NLP techniques. The script leverages several libraries including Hugging Face's Transformers, SpaCy, and BM25 for text processing and query generation.
