@@ -59,6 +59,6 @@ pip install hdbscan --no-cache-dir --no-binary :all: --no-build-isolation
 from huggingface_hub import login
 
 # Replace 'your_token_here' with your actual Hugging Face token
-token = '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'
+token = 'your_token_here'
 login(token)
 
